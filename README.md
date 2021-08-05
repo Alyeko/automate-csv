@@ -7,4 +7,5 @@ Problems to tackle/fix:
 
 Things to add:
 1. regex for other variations of 'REF' and 'CLO'
-2. gui(PyQt5) for non-python usersof 
+2. if the csvs are not all in one folder
+3. gui(PyQt5) for non-python users
