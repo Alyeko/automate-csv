@@ -7,7 +7,7 @@ One function which:
 3. Deletes rows labelled as 'REF' and 'CLO'
 4. Deletes third and fourth columns which contain height coordinates and 'REF' and 'CLO' strings respectively
 5. Sorts dataframe by first column
-6. Saves dataframe as csv at the same filepath and overwrites the old one which was initially read (but this would depend on the name of your input csvs)
+6. Saves dataframe as csv at the same filepath and overwrites the old one which was initially read
 
 ## Running the code (Experiencing the magic):
 1. The code is best run in the same folder where your csvs are stored
