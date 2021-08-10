@@ -3,7 +3,7 @@ Python code to automate the (mundane) task of editing coordinates stored in a cs
 
 One function which: 
 1. Takes filepath as argument
-2. Looks for all csv files in that filepath and reads them as pandas dataframes
+2. Looks for all csv files in a filepath and reads them as pandas dataframes
 3. Deletes rows labelled as 'REF' and 'CLO'
 4. Deletes third and fourth columns which contain height coordinates and 'REF' and 'CLO' strings respectively
 5. Sorts dataframe by first column
