@@ -1,5 +1,5 @@
 # automate-csv
-Python code to automate the (mundane) task of editing coordinates stored in a csv before being uploaded unto a spatial database. 
+Python code to automate the (mundane) task of editing coordinates stored as csvs before being uploaded unto a spatial database. 
 
 One function which: 
 1. Takes filepath as argument
