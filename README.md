@@ -15,9 +15,6 @@ One function which:
 
 ## Assumptions made
 1. The exact labels 'REF' and 'CLO'
-
-## Problems to tackle/fix:
-1. Sorting the first column(name of point)
  
 ## Things to add:
 1. Regex for other variations of 'REF' and 'CLO'
