@@ -11,10 +11,10 @@ One function which:
 
 ## Running the code (Experiencing the magic):
 Open a terminal and run the following...
-python3 -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
-python downloader.py
+1. python3 -m venv venv
+2. source venv/bin/activate
+3. pip install -r requirements.txt
+4. python downloader.py
 
 ## Assumptions made
 1. The exact labels 'REF' and 'CLO'
