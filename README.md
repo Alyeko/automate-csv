@@ -10,8 +10,11 @@ One function which:
 6. Saves dataframe as csv at the same filepath and overwrites the old one which was initially read
 
 ## Running the code (Experiencing the magic):
-1. The code is best run in the same folder where your csvs are stored
-2. Simply run the code in a jupyter notebook, IDE of your choice or terminal
+Open a terminal and run the following...
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+python downloader.py
 
 ## Assumptions made
 1. The exact labels 'REF' and 'CLO'
